@@ -76,7 +76,7 @@ easeai/
   model.py       # tuning, CV, recursive elimination
   explain.py     # SHAP summaries and top-driver extraction
   plotting.py    # SHAP and PDP export helpers
-  workflow.py    # high-level end-to-end workflow class
+  workflow.py    # end-to-end workflow class
 ```
 
 ## Suggested GitHub topics
