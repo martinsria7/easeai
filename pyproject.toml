@@ -24,10 +24,18 @@ dependencies = [
 keywords = ["xgboost", "shap", "tabular", "xai", "regression"]
 classifiers = [
   "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
   "License :: OSI Approved :: MIT License",
   "Operating System :: OS Independent",
   "Intended Audience :: Science/Research",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
 ]
+[project.urls]
+Homepage = "https://github.com/martinsria7/easeai"
+Repository = "https://github.com/martinsria7/easeai"
+Issues = "https://github.com/martinsria7/easeai/issues"
 
 [project.optional-dependencies]
 dev = [
